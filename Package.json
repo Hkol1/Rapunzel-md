@@ -1,0 +1,35 @@
+"name": "ʀᴀᴘᴜɴᴢᴇʟ ᴍᴅ  ⛻",
+  "version": "2.0.0",
+  "description": "ʜᴇʟʟᴏᴡ ɪ ᴀᴍ ʀᴀᴘᴜɴᴢᴇʟ .2.0.ᴠ   🐦.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Rapunzel MD",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "express": "^4.18.2",
+    "ytdl-core": "^4.11.0",
+    "tiktok-scraper": "^1.4.31",
+    "cheerio": "^1.0.0-rc.12",
+    "body-parser": "^1.20.2",
+    "git-clone": "^0.1.0",
+    "node-fetch": "^2.6.12",
+    "puppeteer": "^21.3.8",
+    "ffmpeg-static": "^5.1.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "form-data": "^4.0.0"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "downloader",
+    "rapunzel-md",
+    "youtube",
+    "tiktok",
+    "mediafire",
+    "gitclone"
+  ]
+}
+```
